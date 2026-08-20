@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile.png" alt="P&P Informática" width="100%">
+<img src="assets/profile.png" alt="P&P Informática" width="100%">
 
 # P&P Informática
 
